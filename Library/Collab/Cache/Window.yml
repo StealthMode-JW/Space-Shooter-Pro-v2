@@ -14,27 +14,26 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/AudioMixer.mixer
-    - Assets/AudioMixer.mixer.meta
-    - Assets/Prefabs/Laser_Ammo_UI.prefab
-    - Assets/Prefabs/Laser_Ammo_UI.prefab.meta
-    - Assets/Prefabs/Powerup/Ammo_Powerup.prefab
-    - Assets/Prefabs/Powerup/Ammo_Powerup.prefab.meta
-    - Assets/Prefabs/Powerup/Health_Powerup.prefab
-    - Assets/Prefabs/Powerup/Health_Powerup.prefab.meta
-    - Assets/Prefabs/Powerup/Shield_Powerup.prefab
-    - Assets/Prefabs/Shield.prefab
+    - Assets/Audio/Thrusters_In_Use.mp3
+    - Assets/Audio/Thrusters_In_Use.mp3.meta
+    - Assets/Audio/flamethrower sound effects.mp3
+    - Assets/Audio/flamethrower sound effects.mp3.meta
+    - Assets/OpeningScreen.png
+    - Assets/OpeningScreen.png.meta
+    - Assets/Prefabs/Asteroid.prefab
+    - Assets/Prefabs/Enemy/Enemy.prefab
+    - Assets/Prefabs/Thruster.prefab
     - Assets/Scenes/Game.unity
+    - Assets/Scripts/Asteroid.cs
     - Assets/Scripts/Enemy.cs
-    - Assets/Scripts/Laser.cs
+    - Assets/Scripts/GameManager.cs
     - Assets/Scripts/Player.cs
     - Assets/Scripts/Powerup.cs
     - Assets/Scripts/SpawnManager.cs
-    - Assets/Scripts/SpriteText.cs
-    - Assets/Scripts/SpriteText.cs.meta
+    - Assets/Scripts/TimeWarp.cs
     - Assets/Scripts/UIManager.cs
     - 
-    m_Values: 0000000000000000000000000000000000000000
+    m_Values: 00000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
